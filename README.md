@@ -5,7 +5,7 @@
 
 - 🧑‍💻 I'm currently working on a neural depth estimation using tranformers
 
-- 📄 My recent publication ** Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM ** can be found on [IEEE Explore](https://ieeexplore.ieee.org/document/10125919)
+- 📄 My recent publication **Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM** can be found on [IEEE Explore](https://ieeexplore.ieee.org/document/10125919)
  
 - 🌱 I’m currently learning **TensorRT, NVIDIA TAO TOOLKIT**
 
