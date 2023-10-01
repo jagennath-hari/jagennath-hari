@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagennath-hari&show_icons=true&locale=en" alt="jagennath-hari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagennath-hari&" alt="jagennath-hari" /></p>
+<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=jagennath-hari&" alt="jagennath-hari" /></p>
