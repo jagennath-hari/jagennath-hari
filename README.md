@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center">
-    <img src="assets/robot_camera.png" height="200">
+    <img src="assets/robot_camera.png" height="200" width="800">
 </h2>
 
 
