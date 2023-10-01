@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hari;Nice+to+meet+you!&center=true&size=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hari;Nice+to+meet+you!&center=true&size=50">
   </a>
 </h1>
 <h3 align="center">I am a robotics engineer/researcher with over 2 years of experience in autonomous systems, specialized in creating and deploying real-time SLAM algorithms for robotic systems.</h3>
