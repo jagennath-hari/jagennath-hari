@@ -55,3 +55,20 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagennath-hari&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/jagennath-hari/FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM" title="FusionSLAM"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/jagennath-hari/ConveyorVision-Bag-Counter" title="ConveyorVision"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=ConveyorVision-Bag-Counter&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/jagennath-hari/TreeScan3D-Multi-Threaded-Tree-Detection" title="TreeScan3D"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=TreeScan3D-Multi-Threaded-Tree-Detection&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/jagennath-hari/multi-camera-superpoint-SLAM" title="Multi-Camera Superpoint-SLAM"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=multi-camera-superpoint-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/jagennath-hari/ros_sfm" title="ROS Structure From Motion"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=ros_sfm&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/jagennath-hari/Attention-Based-Visual-Odometry" title="Attention Based Visual Odometry"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=Attention-Based-Visual-Odometry&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
