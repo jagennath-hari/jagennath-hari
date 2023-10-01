@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagennath-hari&label=Profile%20views&color=0e75b6&style=flat" alt="jagennath-hari" /> </p>
 
+- 🧑‍💻 I'm currently working on a neural depth estimation using tranformers
+
+- 📄 My recent publication ** Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM ** can be found on [IEEE Explore](https://ieeexplore.ieee.org/document/10125919)
+ 
 - 🌱 I’m currently learning **TensorRT, NVIDIA TAO TOOLKIT**
 
 - 📫 How to reach me **jh7454@nyu.edu**
