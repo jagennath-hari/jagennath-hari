@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jagennath Hari</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jagennath+Hari....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">I am a robotics engineer/researcher with over 2 years of experience in autonomous systems, specialized in creating and deploying real-time SLAM algorithms for robotic systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagennath-hari&label=Profile%20views&color=0e75b6&style=flat" alt="jagennath-hari" /> </p>
