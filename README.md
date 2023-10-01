@@ -69,8 +69,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/jagennath-hari/ros_sfm" title="ROS Structure From Motion"><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=ros_sfm&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/jagennath-hari/Attention-Based-Visual-Odometry" title="Attention Based Visual Odometry"><img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=Attention-Based-Visual-Odometry&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/jagennath-hari/ros_sfm" title="ROS Structure From Motion"><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=ros_sfm&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/jagennath-hari/Attention-Based-Visual-Odometry" title="Attention Based Visual Odometry"><img align="right" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=Attention-Based-Visual-Odometry&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
