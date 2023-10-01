@@ -58,14 +58,14 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="90%" align="center">
-  <a align="left" href="https://github.com/jagennath-hari/FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM" title="FusionSLAM"><img align="left" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/jagennath-hari/ConveyorVision-Bag-Counter" title="ConveyorVision"><img align="right" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=ConveyorVision-Bag-Counter&theme=react&border_color=61dafb&border_radius=10"></a>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/jagennath-hari/FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM" title="FusionSLAM"><img align="left" width="405" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/jagennath-hari/ConveyorVision-Bag-Counter" title="ConveyorVision"><img align="right" width="405" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=ConveyorVision-Bag-Counter&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="90%" align="center">
-  <a align="left" href="https://github.com/jagennath-hari/TreeScan3D-Multi-Threaded-Tree-Detection" title="TreeScan3D"><img align="left" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=TreeScan3D-Multi-Threaded-Tree-Detection&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/jagennath-hari/multi-camera-superpoint-SLAM" title="Multi-Camera Superpoint-SLAM"><img align="right" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=multi-camera-superpoint-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/jagennath-hari/TreeScan3D-Multi-Threaded-Tree-Detection" title="TreeScan3D"><img align="left" width="405" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=TreeScan3D-Multi-Threaded-Tree-Detection&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/jagennath-hari/multi-camera-superpoint-SLAM" title="Multi-Camera Superpoint-SLAM"><img align="right" width="405" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=multi-camera-superpoint-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
