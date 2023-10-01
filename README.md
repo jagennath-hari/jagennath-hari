@@ -4,11 +4,6 @@
   </a>
 </h1>
 
-<h2 align="center">
-    <img src="assets/robot_camera.png" height="150" width="800">
-</h2>
-
-
 
 <h3 align="center">I am a robotics engineer/researcher with over 2 years of experience in autonomous systems, specialized in creating and deploying real-time SLAM algorithms for robotic systems.</h3>
 
