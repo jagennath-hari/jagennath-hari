@@ -13,11 +13,11 @@
 
 - 📄 My recent publication **Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM** can be found on [IEEE Explore](https://ieeexplore.ieee.org/document/10125919)
  
-- 🌱 I’m currently learning **TensorRT, NVIDIA TAO TOOLKIT and NVIDIA ISAAC ROS**
+- 🙇‍♂️ I’m currently learning **TensorRT, NVIDIA TAO TOOLKIT and NVIDIA ISAAC ROS**
 
 - 📫 How to reach me **jh7454@nyu.edu**
 
-- ⚡ Fun fact **I love watching soccer ⚽️**
+- 🤪 Fun fact **I love watching soccer ⚽️**
 
 <h3 align="left">📲 Connect with me:</h3>
 <p align="left">
