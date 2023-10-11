@@ -7,7 +7,7 @@
 
 <h3 align="center">I am a robotics engineer/researcher with over 2 years of experience in autonomous systems, specialized in creating and deploying real-time SLAM algorithms for robotic systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagennath-hari&label=Profile%20views&color=0e75b6&style=flat" alt="jagennath-hari" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=jagennath-hari&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🧑‍💻 I'm currently working on a neural depth estimation using transformers
 
