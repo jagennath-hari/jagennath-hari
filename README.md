@@ -5,13 +5,13 @@
 </h1>
 
 
-<h3 align="center">I am a robotics engineer/researcher with over 2 years of experience in autonomous systems, specialized in creating and deploying real-time SLAM algorithms for robotic systems.</h3>
+<h3 align="center">I am a robotics engineer/researcher with over 3 years of experience in autonomous systems, specialized in creating and deploying real-time SLAM algorithms for robotic systems.</h3>
 
 - 🧑‍💻 I'm currently working on a neural depth estimation using transformers
 
 - 📄 My recent publication **Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM** can be found on [IEEE Explore](https://ieeexplore.ieee.org/document/10125919)
  
-- 🙇‍♂️ I’m currently learning **TensorRT, NVIDIA TAO TOOLKIT and NVIDIA ISAAC ROS**
+- 🙇‍♂️ I’m currently learning **TensorRT and NVIDIA TAO TOOLKIT**
 
 - 📫 How to reach me **jh7454@nyu.edu**
 
