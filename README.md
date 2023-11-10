@@ -52,7 +52,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/jagennath-hari/FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM" title="FusionSLAM"><img align="left" height="175" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=FusionSLAM&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/jagennath-hari/FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM" title="FusionSLAM"><img align="left" height="175" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/jagennath-hari/ConveyorVision-Bag-Counter" title="ConveyorVision"><img align="right" height="175" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=ConveyorVision-Bag-Counter&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
