@@ -57,7 +57,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/jagennath-hari/TreeScan3D-Multi-Threaded-Tree-Detection" title="TreeScan3D"><img align="left" height="175" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=TreeScan3D-Multi-Threaded-Tree-Detection&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/jagennath-hari/DepthStream-Accelerator-ROS2-Integrated-Monocular-Depth-Inference" title="DepthStream-Accelerator"><img align="left" height="175" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=TreeScan3D-Multi-Threaded-Tree-Detection&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/jagennath-hari/multi-camera-superpoint-SLAM" title="Multi-Camera Superpoint-SLAM"><img align="right" height="175" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=multi-camera-superpoint-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
