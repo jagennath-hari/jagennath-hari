@@ -11,7 +11,7 @@
 
 - 📄 My recent publication **Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM** can be found on [IEEE Explore](https://ieeexplore.ieee.org/document/10125919)
  
-- 🙇‍♂️ I’m currently learning **NVIDIA TAO TOOLKIT**
+- 🙇‍♂️ I’m currently learning **GPU Programming using CUDA and cuBLAS**
 
 - 📫 How to reach me **jh7454@nyu.edu**
 
