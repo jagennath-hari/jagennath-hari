@@ -11,7 +11,7 @@
 
 - 📄 My recent publication **Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM** can be found on [IEEE Explore](https://ieeexplore.ieee.org/document/10125919)
  
-- 🙇‍♂️ I’m currently learning **UKF implementaion using CUDA and cuBLAS**
+- 🙇‍♂️ I’m currently learning **Monocular Visual Odometry using Depth Anything**
 
 - 📫 How to reach me **jh7454@nyu.edu**
 
