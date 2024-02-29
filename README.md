@@ -9,13 +9,13 @@
 
 - 🧑‍💻 I'm currently working on a SLAM based Guassian Splatting for high precision 3D Reconstruction and visual odometry using TAPNET.
 
-- 📄 My recent publication **Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM** can be found on [IEEE Explore](https://ieeexplore.ieee.org/document/10125919)
+- 📄 My recent publication **Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM** can be found on [IEEE Explore](https://ieeexplore.ieee.org/document/10125919).
  
-- 🙇‍♂️ I’m currently learning **Monocular Visual Odometry using Depth Anything**
+- 🙇‍♂️ I’m currently learning **Monocular Visual Odometry using Depth Anything**.
 
-- 📫 How to reach me **jh7454@nyu.edu**
+- 📫 How to reach me **jh7454@nyu.edu**.
 
-- 🤪 Fun fact **I love watching soccer ⚽️**
+- 🤪 Fun fact **I love watching soccer ⚽️**.
 
 <h3 align="left">📲 Connect with me:</h3>
 <p align="left">
