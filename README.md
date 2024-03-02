@@ -11,7 +11,7 @@
 
 - 📄 My recent publication **Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM** can be found on [IEEE Explore](https://ieeexplore.ieee.org/document/10125919).
  
-- 🙇‍♂️ I’m currently learning **Implementation in cuBLAS and cuSOLVER for Monocular Visual Odometry using Depth Anything**.
+- 🙇‍♂️ I’m currently learning **Implementation of Monocular Visual Odometry in cuBLAS and cuSOLVER using Depth Anything Network**.
 
 - 📫 How to reach me **jh7454@nyu.edu**.
 
