@@ -73,3 +73,7 @@
   <a href="https://github.com/jagennath-hari?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
