@@ -7,11 +7,11 @@
 
 <h3 align="center">I am a robotics engineer/researcher with over 3 years of experience in autonomous systems, specialized in creating and deploying real-time SLAM algorithms for robotic systems.</h3>
 
-- 🧑‍💻 I'm currently working on a SLAM based Guassian Splatting for high precision 3D Reconstruction and visual odometry using TAPNET.
+- 🧑‍💻 I'm currently working on a visual odometry using DeDoDe v2 and UniDepth in TensorRT.
 
 - 📄 My recent publication **Efficient Real-Time Localization in Prior Indoor Maps Using Semantic SLAM** can be found on [IEEE Explore](https://ieeexplore.ieee.org/document/10125919).
  
-- 🙇‍♂️ I’m currently learning **Implementation of Monocular Visual Odometry in cuBLAS and cuSOLVER using Depth Anything Network**.
+- 🙇‍♂️ I’m currently learning **Bundle Adjustment using CUDA, cuBLAS and cuSOLVER**.
 
 - 📫 How to reach me **jh7454@nyu.edu**.
 
