@@ -57,8 +57,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/jagennath-hari/FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM" title="FusionSLAM"><img align="left" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/jagennath-hari/DepthStream-Accelerator-ROS2-Integrated-Monocular-Depth-Inference" title="DepthStream-Accelerator"><img align="left" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=DepthStream-Accelerator-ROS2-Integrated-Monocular-Depth-Inference&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/jagennath-hari/FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM" title="FusionSLAM"><img align="left" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/jagennath-hari/DepthStream-Accelerator-ROS2-Integrated-Monocular-Depth-Inference" title="DepthStream-Accelerator"><img align="right" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=DepthStream-Accelerator-ROS2-Integrated-Monocular-Depth-Inference&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
