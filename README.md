@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jh7454@nyu.edu**.
 
-- 🤪 Fun fact **I love watching soccer ⚽️**.
+- 🤪 Fun fact **I love watching soccer ⚽️, I also like reading research papers to come up new ideas**.
 
 <h3 align="left">📲 Connect with me:</h3>
 <p align="left">
