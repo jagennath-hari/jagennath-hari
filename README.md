@@ -7,9 +7,9 @@
 
 <h3 align="center">I am a robotics engineer/researcher with over 3 years of experience in autonomous systems, specialized in creating and deploying real-time SLAM algorithms for robotic systems.</h3>
 
-- 🧑‍💻 I'm currently working on a visual odometry using DeDoDe v2 and UniDepth in TensorRT.
+- 🧑‍💻 I'm currently working on a semantic 3D Guassian Splatting.
  
-- 🙇‍♂️ I’m currently learning **Bundle Adjustment using CUDA, cuBLAS and cuSOLVER**.
+- 🙇‍♂️ I’m currently learning **LLMs and CLIP encoders**.
 
 - 📫 How to reach me **jh7454@nyu.edu**.
 
