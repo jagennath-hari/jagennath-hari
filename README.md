@@ -50,18 +50,18 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/jagennath-hari/RGBD-3DGS-SLAM" title="RGBD 3DGS SLAM"><img align="left" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=RGBD-3DGS-SLAM&theme=react&border_color=61dafb&border_radius=10&custom_title=test"></a>
-  <a align="right" href="https://github.com/jagennath-hari/CUDA-Accelerated-Visual-Inertial-Odometry-Fusion" title="CUDA Accelerated Visual Inertial Odometry Fusion"><img align="right" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=CUDA-Accelerated-Visual-Inertial-Odometry-Fusion&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="left" href="https://github.com/jagennath-hari/Edge-Optimized-Tracking-System" title="Edge Optimized Tracking System"><img align="left" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=Edge-Optimized-Tracking-System&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/jagennath-hari/RGBD-3DGS-SLAM" title="RGBD 3DGS SLAM"><img align="right" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=RGBD-3DGS-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/jagennath-hari/FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM" title="FusionSLAM"><img align="left" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/jagennath-hari/DepthStream-Accelerator-ROS2-Integrated-Monocular-Depth-Inference" title="DepthStream Accelerator"><img align="right" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=DepthStream-Accelerator-ROS2-Integrated-Monocular-Depth-Inference&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/jagennath-hari/CUDA-Accelerated-Visual-Inertial-Odometry-Fusion" title="CUDA Accelerated Visual Inertial Odometry Fusion"><img align="left" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=CUDA-Accelerated-Visual-Inertial-Odometry-Fusion&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/jagennath-hari/FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM" title="FusionSLAM"><img align="right" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/jagennath-hari/multi-camera-superpoint-SLAM" title="Multi-Camera Superpoint-SLAM"><img align="left" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=multi-camera-superpoint-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/jagennath-hari/Edge-Optimized-Tracking-System" title="Edge Optimized Tracking System"><img align="right" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=Edge-Optimized-Tracking-System&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="left" href="https://github.com/jagennath-hari/DepthStream-Accelerator-ROS2-Integrated-Monocular-Depth-Inference" title="DepthStream Accelerator"><img align="left" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=DepthStream-Accelerator-ROS2-Integrated-Monocular-Depth-Inference&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/jagennath-hari/multi-camera-superpoint-SLAM" title="Multi-Camera Superpoint-SLAM"><img align="right" height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=multi-camera-superpoint-SLAM&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/>
