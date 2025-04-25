@@ -47,13 +47,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagennath-hari&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<h2 align="center">👨‍💻 Latest Repository 👨‍💻</h2>
+<h2 align="center">🚀 Latest Repository 🚀</h2>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/jagennath-hari/SpatialFusion-LM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=SpatialFusion-LM&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=SpatialFusion-LM&theme=react&border_color=61dafb&border_radius=10" width="90%">
   </a>
-</p>
+</div>
 
 
 <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
