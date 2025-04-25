@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" alt="AWS" />
-  <img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazon-s3" alt="S3" />
+  <img src="https://img.shields.io/badge/S3%20%7C%20EC2-FF9900?style=for-the-badge&logo=amazonaws" alt="S3 | EC2" />
   <img src="https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia" alt="TensorRT" />
   <img src="https://img.shields.io/badge/Triton-Inference_Server-FF6F00?style=for-the-badge&logo=triton" alt="Triton" />
