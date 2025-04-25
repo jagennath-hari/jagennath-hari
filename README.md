@@ -26,26 +26,31 @@
 <a href="https://index.ros.org/doc/ros2/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros" alt="ROS2" width="40" height="40"/> </a>  </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=jagennath-hari&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=jagennath-hari&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagennath-hari&hide=jupyter%20notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=12&card_width=400&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagennath-hari&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=jagennath-hari&theme=react&border=61dafb&hide_border=true" width="90%" alt="Streak Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=jagennath-hari&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="90%" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagennath-hari&hide=jupyter%20notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=12&card_width=400&layout=compact&border_color=61dafb&hide_border=true" width="90%" alt="Top Languages" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagennath-hari&theme=react-dark&bg_color=20232a&hide_border=true" width="90%" alt="Activity Graph"/>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🚀 Latest Repository 🚀</h2>
 
