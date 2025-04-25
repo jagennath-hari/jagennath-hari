@@ -47,6 +47,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagennath-hari&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/jagennath-hari/SpatialFusion-LM">
+    <img src="https://github.com/jagennath-hari/SpatialFusion-LM/raw/main/media/banner_spatialfusionlm.png" alt="SpatialFusion-LM Banner" width="100%" />
+  </a>
+</p>
+<p align="center">
+  <b>SpatialFusion-LM:</b> Foundational Vision Meets Spatial Language Models for 3D Scene Understanding
+</p>
+
+
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
 <table align="center" width="100%">
