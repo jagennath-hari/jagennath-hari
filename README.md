@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 align="center">I am a robotics engineer/researcher with over 3 years of experience in autonomous systems, specialized in creating and deploying real-time SLAM algorithms for robotic systems.</h3>
+<h3 align="center">I am a robotics engineer/researcher specialized in creating and deploying real-time SLAM algorithms for robotic systems.</h3>
 
 - 🧑‍💻 I'm currently working on a semantic 3D Guassian Splatting.
  
