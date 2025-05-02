@@ -57,7 +57,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagennath-hari&hide=jupyter%20notebook,html,css,tex,javascript,C&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=12&card_width=400&layout=compact&border_color=61dafb&hide_border=true" width="90%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagennath-hari&hide=jupyter%20notebook,html,css,tex,javascript,C,ruby&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=12&card_width=400&layout=compact&border_color=61dafb&hide_border=true" width="90%" alt="Top Languages" />
       </a>
     </td>
     <td align="center" width="50%">
