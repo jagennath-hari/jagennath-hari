@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm currently working on a semantic 3D Guassian Splatting.
  
-- 🙇‍♂️ I’m currently learning **LLMs and CLIP encoders**.
+- 🙇‍♂️ I’m currently learning **OpenAI Triton and CUTLASS** for writing custom GPU kernels and accelerating vision-language pipelines.
 
 - 📫 How to reach me **jh7454@nyu.edu**.
 
