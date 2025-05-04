@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=wandb" alt="WandB" />
   <img src="https://img.shields.io/badge/CVAT.ai-FF6F00?style=for-the-badge&logo=dataiku" alt="CVAT" />
+  <img src="https://img.shields.io/badge/Rerun-FF3E58?style=for-the-badge" alt="Rerun" />
   <img src="https://img.shields.io/badge/Qt%20%7C%20QML-41CD52?style=for-the-badge&logo=qt" alt="Qt QML" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface" alt="HuggingFace" />
 </p>
