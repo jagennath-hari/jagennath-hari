@@ -24,7 +24,7 @@
   <a href="https://ubuntu.com" target="_blank">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   </a>
-  <a href="https://docs.ros.org/en/jazzy/index.html" target="_blank">
+  <a href="https://www.ros.org/" target="_blank">
     <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
   </a>
   <a href="https://developer.nvidia.com/embedded-computing" target="_blank">
