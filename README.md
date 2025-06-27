@@ -57,6 +57,9 @@
   <a href="https://onnx.ai/" target="_blank">
     <img src="https://img.shields.io/badge/ONNX-005FAA?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
   </a>
+  <a href="https://lightning.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white" alt="Lighting AI" />
+  </a>
   <a href="https://developer.nvidia.com/tensorrt" target="_blank">
     <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="TensorRT" />
   </a>
