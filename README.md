@@ -7,7 +7,7 @@
 
 <h3 align="center">I am a robotics engineer/researcher specialized in creating and deploying real-time SLAM algorithms for robotic systems.</h3>
 
-- 🧑‍💻 I'm currently working on a semantic 3D Guassian Splatting.
+- 🧑‍💻 I'm currently working on a real-time diffusion 3D Guassian Splatting.
  
 - 🙇‍♂️ I’m currently learning **OpenAI Triton and CUTLASS** for writing custom GPU kernels and accelerating vision-language pipelines.
 
@@ -122,8 +122,8 @@
 <h2 align="center">🚀 Latest Repository 🚀</h2>
 
 <div align="center">
-  <a href="https://github.com/jagennath-hari/SpatialFusion-LM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=SpatialFusion-LM&theme=react&border_color=61dafb&border_radius=10" width="90%">
+  <a href="https://github.com/jagennath-hari/Singularity3D">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=Singularity3D&theme=react&border_color=61dafb&border_radius=10" width="90%">
   </a>
 </div>
 
@@ -150,8 +150,8 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/jagennath-hari/FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=FusionSLAM-Unifying-Instant-NGP-for-Monocular-SLAM&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
+      <a href="https://github.com/jagennath-hari/SpatialFusion-LM">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=SpatialFusion-LM&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
       </a>
     </td>
   </tr>
