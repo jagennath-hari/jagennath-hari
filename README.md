@@ -103,7 +103,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=jagennath-hari&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="90%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api?username=jagennath-hari&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="90%" alt="GitHub Stats" />
       </a>
     </td>
   </tr>
