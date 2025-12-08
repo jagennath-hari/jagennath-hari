@@ -110,7 +110,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagennath-hari&hide=jupyter%20notebook,html,css,tex,javascript,C,ruby,matlab&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=12&card_width=400&layout=compact&border_color=61dafb&hide_border=true" width="90%" alt="Top Languages" />
+        <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/top-langs/?username=jagennath-hari&hide=jupyter%20notebook,html,css,tex,javascript,C,ruby,matlab&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=12&card_width=400&layout=compact&border_color=61dafb&hide_border=true" width="90%" alt="Top Languages" />
       </a>
     </td>
     <td align="center" width="50%">
@@ -123,7 +123,7 @@
 
 <div align="center">
   <a href="https://github.com/jagennath-hari/Singularity3D">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=Singularity3D&theme=react&border_color=61dafb&border_radius=10" width="90%">
+    <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/pin/?username=jagennath-hari&repo=Singularity3D&theme=react&border_color=61dafb&border_radius=10" width="90%">
   </a>
 </div>
 
@@ -134,36 +134,36 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/jagennath-hari/Edge-Optimized-Tracking-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=Edge-Optimized-Tracking-System&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
+        <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/pin/?username=jagennath-hari&repo=Edge-Optimized-Tracking-System&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/jagennath-hari/RGBD-3DGS-SLAM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=RGBD-3DGS-SLAM&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
+        <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/pin/?username=jagennath-hari&repo=RGBD-3DGS-SLAM&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/jagennath-hari/CUDA-Accelerated-Visual-Inertial-Odometry-Fusion">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=CUDA-Accelerated-Visual-Inertial-Odometry-Fusion&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
+        <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/pin/?username=jagennath-hari&repo=CUDA-Accelerated-Visual-Inertial-Odometry-Fusion&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/jagennath-hari/SpatialFusion-LM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=SpatialFusion-LM&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
+        <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/pin/?username=jagennath-hari&repo=SpatialFusion-LM&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/jagennath-hari/DepthStream-Accelerator-ROS2-Integrated-Monocular-Depth-Inference">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=DepthStream-Accelerator-ROS2-Integrated-Monocular-Depth-Inference&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
+        <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/pin/?username=jagennath-hari&repo=DepthStream-Accelerator-ROS2-Integrated-Monocular-Depth-Inference&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/jagennath-hari/multi-camera-superpoint-SLAM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jagennath-hari&repo=multi-camera-superpoint-SLAM&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
+        <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/pin/?username=jagennath-hari&repo=multi-camera-superpoint-SLAM&theme=react&border_color=61dafb&border_radius=10" style="max-width: 100%;">
       </a>
     </td>
   </tr>
