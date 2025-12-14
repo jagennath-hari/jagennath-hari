@@ -98,7 +98,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-        <img src="github-readme-streak-stats-eight.vercel.app/?user=jagennath-hari&theme=react&hide_border=true&short_numbers=true" width="90%" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jagennath-hari&theme=react&hide_border=true&short_numbers=true" width="90%" alt="Streak Stats" />
       </a>
     </td>
     <td align="center" width="50%">
