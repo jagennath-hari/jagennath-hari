@@ -97,13 +97,13 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jagennath-hari&theme=react&hide_border=true&short_numbers=true" width="90%" alt="Streak Stats" />
+      <a href="https://github-stats-extended.vercel.app">
+        <img src="https://github-stats-extended.vercel.app/?user=jagennath-hari&theme=react&hide_border=true&short_numbers=true" width="90%" alt="Streak Stats" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api?username=jagennath-hari&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="90%" alt="GitHub Stats" />
+      <a href="https://github-stats-extended.vercel.app">
+        <img src="https://github-stats-extended.vercel.app/api?username=jagennath-hari&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="90%" alt="GitHub Stats" />
       </a>
     </td>
   </tr>
