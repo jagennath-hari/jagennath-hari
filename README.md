@@ -114,7 +114,7 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagennath-hari&theme=react-dark&bg_color=20232a&hide_border=true" width="90%" alt="Activity Graph"/>
+      <img src="https://github-activity-graph.luckylinux.dev/graph?username=jagennath-hari&theme=react-dark&bg_color=20232a&hide_border=true" width="90%" alt="Activity Graph"/>
     </td>
   </tr>
 </table>
