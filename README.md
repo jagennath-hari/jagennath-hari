@@ -125,7 +125,6 @@
 </table>
 
 <br>
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/jagennath-hari/jagennath-hari/output/trophies.svg"
