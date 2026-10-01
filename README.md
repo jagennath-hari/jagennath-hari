@@ -124,6 +124,18 @@
   </tr>
 </table>
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/Rachit-Pal/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=jagennath-hari&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=8"
+      width="100%"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
+
 <h2 align="center">🚀 Latest Repository 🚀</h2>
 
 <div align="center">
