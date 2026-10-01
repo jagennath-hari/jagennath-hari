@@ -103,7 +103,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github-stats-extended.vercel.app">
-        <img src="https://github-stats-extended.vercel.app/api?username=jagennath-hari&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="90%" alt="GitHub Stats"/>
+        <img src="https://github-stats-extended.vercel.app/api?username=jagennath-hari&show_icons=true&theme=react&border_color=61dafb&hide_border=true&v=2" width="90%" alt="GitHub Stats"/>
       </a>
     </td>
   </tr>
