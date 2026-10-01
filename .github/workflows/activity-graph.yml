@@ -13,15 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # --------------------------------------------------
-      # Checkout
-      # --------------------------------------------------
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v6
 
-      # --------------------------------------------------
-      # Activity Graph
-      # --------------------------------------------------
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
@@ -30,20 +24,14 @@ jobs:
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # --------------------------------------------------
-      # GitHub Trophies - All 9
-      # --------------------------------------------------
-      - name: Generate GitHub trophies
+      - name: Generate trophies
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: 'username=jagennath-hari&theme=darkhub&column=9&no-frame=true&no-bg=true&margin-w=8&margin-h=8'
+          options: 'username=jagennath-hari&theme=darkhub'
           path: dist/trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # --------------------------------------------------
-      # Publish SVGs to output branch
-      # --------------------------------------------------
-      - name: Publish profile SVGs
+      - name: Publish
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
