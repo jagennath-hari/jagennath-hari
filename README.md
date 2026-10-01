@@ -97,8 +97,8 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github-stats-extended.vercel.app">
-        <img src="https://github-stats-extended.vercel.app/api?username=jagennath-hari&theme=react&hide_border=true&short_numbers=true" width="90%" alt="Streak Stats" />
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=jagennath-hari&theme=react&hide_border=true&short_numbers=true" width="90%" alt="Streak Stats" />
       </a>
     </td>
     <td align="center" width="50%">
