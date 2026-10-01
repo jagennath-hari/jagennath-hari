@@ -16,9 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      # --------------------------------------------------
       # Activity Graph
-      # --------------------------------------------------
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
@@ -27,20 +25,15 @@ jobs:
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # --------------------------------------------------
       # GitHub Trophies
-      # --------------------------------------------------
       - name: Generate GitHub trophies
-        uses: ryo-ma/github-profile-trophy@master
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          username: jagennath-hari
-          output_path: dist/trophies.svg
+          options: 'username=jagennath-hari&theme=darkhub&title=-Issues,-Reviews&column=7&no-frame=true&no-bg=true&margin-w=8'
+          path: dist/trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: darkhub
 
-      # --------------------------------------------------
-      # Publish both SVGs to output branch
-      # --------------------------------------------------
+      # Publish both
       - name: Publish profile SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
