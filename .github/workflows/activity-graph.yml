@@ -25,11 +25,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate trophies
-        uses: soulteary/github-profile-trophy-action@v1.0.0
+        uses: ryo-ma/github-profile-trophy@master
         with:
-          options: 'username=jagennath-hari&theme=darkhub'
-          path: dist/trophies.svg
+          username: jagennath-hari
+          output_path: dist/trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          theme: darkhub
 
       - name: Publish
         uses: crazy-max/ghaction-github-pages@v3.1.0
