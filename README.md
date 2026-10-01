@@ -124,6 +124,14 @@
   </tr>
 </table>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/jagennath-hari/jagennath-hari/output/trophies.svg"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+</p>
+
 <h2 align="center">🚀 Latest Repository 🚀</h2>
 
 <div align="center">
