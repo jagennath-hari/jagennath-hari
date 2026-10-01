@@ -126,7 +126,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/jagennath-hari/jagennath-hari/output/trophies.svg"
+    src="https://raw.githubusercontent.com/jagennath-hari/jagennath-hari/output/trophies.svg?v=4"
     width="100%"
     alt="GitHub Trophies"
   />
