@@ -1,4 +1,4 @@
-name: Update Activity Graph
+name: Update Profile Stats
 
 on:
   schedule:
@@ -16,6 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
+      # --------------------------------------------------
+      # Activity Graph
+      # --------------------------------------------------
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
@@ -24,7 +27,21 @@ jobs:
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish SVG
+      # --------------------------------------------------
+      # GitHub Trophies
+      # --------------------------------------------------
+      - name: Generate GitHub trophies
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: jagennath-hari
+          output_path: dist/trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: darkhub
+
+      # --------------------------------------------------
+      # Publish both SVGs to output branch
+      # --------------------------------------------------
+      - name: Publish profile SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
