@@ -146,7 +146,7 @@
 
 <div align="center">
   <a href="https://github.com/jagennath-hari/SceneForge">
-    <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/pin/?username=jagennath-hari&repo=SceneForge&theme=react&border_color=61dafb&border_radius=10" width="90%">
+    <img src="https://github-readme-stats-jmhq8s4lo-github-readme-stats-team.vercel.app/api/pin/?username=jagennath-hari&repo=SceneForge&theme=react&border_color=61dafb&border_radius=10" width="100%">
   </a>
 </div>
 
