@@ -136,7 +136,7 @@
   <a href="https://leetcode.com/u/jagennath-hari/">
     <img
       src="https://leetcard.jacoblin.cool/jagennath-hari?theme=dark&font=Karma"
-      width="55%"
+      width="100%"
       alt="LeetCode Stats"
     />
   </a>
