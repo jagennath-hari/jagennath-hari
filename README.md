@@ -132,6 +132,16 @@
   />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/jagennath-hari/">
+    <img
+      src="https://leetcard.jacoblin.cool/jagennath-hari?theme=dark&font=Karma&ext=heatmap"
+      width="90%"
+      alt="LeetCode Stats"
+    />
+  </a>
+</p>
+
 <h2 align="center">🚀 Latest Repository 🚀</h2>
 
 <div align="center">
