@@ -7,7 +7,7 @@
 
 <h3 align="center">I am a robotics engineer/researcher specialized in creating and deploying real-time SLAM algorithms for robotic systems.</h3>
 
-- 🧑‍💻 I'm currently working on a real-time diffusion 3D Guassian Splatting.
+- 🧑‍💻 I'm currently working on a VLA for robot manipulation.
  
 - 🙇‍♂️ I’m currently learning **OpenAI Triton and CUTLASS** for writing custom GPU kernels and accelerating vision-language pipelines.
 
