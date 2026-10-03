@@ -124,23 +124,26 @@
   </tr>
 </table>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/jagennath-hari/jagennath-hari/output/trophies.svg?v=4"
-    width="100%"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/jagennath-hari/">
-    <img
-      src="https://leetcard.jacoblin.cool/jagennath-hari?theme=dark&font=Karma"
-      width="100%"
-      alt="LeetCode Stats"
-    />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="60%">
+      <img
+        src="https://raw.githubusercontent.com/jagennath-hari/jagennath-hari/output/trophies.svg?v=4"
+        width="100%"
+        alt="GitHub Trophies"
+      />
+    </td>
+    <td align="center" width="40%">
+      <a href="https://leetcode.com/u/jagennath-hari/">
+        <img
+          src="https://leetcard.jacoblin.cool/jagennath-hari?theme=dark&font=Karma"
+          width="100%"
+          alt="LeetCode Stats"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🚀 Latest Repository 🚀</h2>
 
